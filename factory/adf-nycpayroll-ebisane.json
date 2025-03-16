@@ -1,0 +1,9 @@
+{
+	"name": "adf-nycpayroll-ebisane",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f23389a6-f109-4cc4-a1cf-b8b7459714b2",
+		"tenantId": "bf2cd592-a8cf-4fba-b632-d946bb85b7f3"
+	}
+}
